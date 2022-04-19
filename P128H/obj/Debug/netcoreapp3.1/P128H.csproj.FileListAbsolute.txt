@@ -1,0 +1,14 @@
+C:\Users\Eli\source\repos\P128H\P128H\bin\Debug\netcoreapp3.1\P128H.exe
+C:\Users\Eli\source\repos\P128H\P128H\bin\Debug\netcoreapp3.1\P128H.deps.json
+C:\Users\Eli\source\repos\P128H\P128H\bin\Debug\netcoreapp3.1\P128H.runtimeconfig.json
+C:\Users\Eli\source\repos\P128H\P128H\bin\Debug\netcoreapp3.1\P128H.runtimeconfig.dev.json
+C:\Users\Eli\source\repos\P128H\P128H\bin\Debug\netcoreapp3.1\P128H.dll
+C:\Users\Eli\source\repos\P128H\P128H\bin\Debug\netcoreapp3.1\P128H.pdb
+C:\Users\Eli\source\repos\P128H\P128H\obj\Debug\netcoreapp3.1\P128H.csproj.AssemblyReference.cache
+C:\Users\Eli\source\repos\P128H\P128H\obj\Debug\netcoreapp3.1\P128H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\source\repos\P128H\P128H\obj\Debug\netcoreapp3.1\P128H.AssemblyInfoInputs.cache
+C:\Users\Eli\source\repos\P128H\P128H\obj\Debug\netcoreapp3.1\P128H.AssemblyInfo.cs
+C:\Users\Eli\source\repos\P128H\P128H\obj\Debug\netcoreapp3.1\P128H.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\P128H\P128H\obj\Debug\netcoreapp3.1\P128H.dll
+C:\Users\Eli\source\repos\P128H\P128H\obj\Debug\netcoreapp3.1\P128H.pdb
+C:\Users\Eli\source\repos\P128H\P128H\obj\Debug\netcoreapp3.1\P128H.genruntimeconfig.cache
